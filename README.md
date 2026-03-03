@@ -461,4 +461,11 @@ python run.py
 
 <img width="1399" height="933" alt="Снимок экрана 2026-03-03 172120" src="https://github.com/user-attachments/assets/d18337a5-f82a-46be-9d79-a22b4042695e" />
 
+<img width="1503" height="938" alt="image" src="https://github.com/user-attachments/assets/5533dd0a-3ecc-406f-bd8f-d5d82e7d1e94" />
+
+
+
+
+
+
 ---
