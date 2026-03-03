@@ -459,5 +459,6 @@ python run.py
 
 После выполнения этих команд API будет доступно по адресу `http://localhost:8000` 🎉
 
-C:\Users\Sveta\Pictures\Screenshots
+<img width="1399" height="933" alt="Снимок экрана 2026-03-03 172120" src="https://github.com/user-attachments/assets/d18337a5-f82a-46be-9d79-a22b4042695e" />
+
 ---
